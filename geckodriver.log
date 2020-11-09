@@ -1,0 +1,24 @@
+1604824942247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9n/c0mdbx5n55g6_y3yxk5ts2br0000gn/T/rust_mozprofile5ayEcJ"
+1604824943717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9n/c0mdbx5n55g6_y3yxk5ts2br0000gn/T/rust_mozprofile8ql5S0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604824946282	Marionette	INFO	Listening on port 55981
+1604824946849	Marionette	INFO	Listening on port 55999
+1604824946888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://dbankdemo.com/js/dashboard.js, line 39: ReferenceError: Chart is not defined
+JavaScript error: http://dbankdemo.com/js/widgets.js, line 24: TypeError: ctx is null
+JavaScript error: http://dbankdemo.com/js/dashboard.js, line 39: ReferenceError: Chart is not defined
+JavaScript error: http://dbankdemo.com/js/widgets.js, line 24: TypeError: ctx is null
+1604824950480	Marionette	INFO	Stopped listening on port 55999
+1604824951949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/9n/c0mdbx5n55g6_y3yxk5ts2br0000gn/T/rust_mozprofileLmIOH7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604824953822	Marionette	INFO	Listening on port 56144
+1604824953873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://dbankdemo.com/js/dashboard.js, line 39: ReferenceError: Chart is not defined
+JavaScript error: http://dbankdemo.com/js/widgets.js, line 24: TypeError: ctx is null
+JavaScript error: http://dbankdemo.com/js/dashboard.js, line 39: ReferenceError: Chart is not defined
+JavaScript error: http://dbankdemo.com/js/widgets.js, line 24: TypeError: ctx is null
+1604824957641	Marionette	INFO	Stopped listening on port 56144
+1604825021037	Marionette	INFO	Stopped listening on port 55981
